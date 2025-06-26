@@ -29,7 +29,7 @@ jobs:
           python bg_removal_pipeline.py
 
       - name: Upload removed images
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: removed-backgrounds
           path: output/
