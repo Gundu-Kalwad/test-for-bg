@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+pillow
+matplotlib
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/PeterL1n/RobustVideoMatting.git
+git+https://github.com/ZHKKKe/MODNet.git
